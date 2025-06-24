@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lakshmanmandapati/LM-Website/static/css/main.78423ae2.css",
+    "main.js": "/lakshmanmandapati/LM-Website/static/js/main.e4bd5d8f.js",
+    "static/js/453.e6fc08ee.chunk.js": "/lakshmanmandapati/LM-Website/static/js/453.e6fc08ee.chunk.js",
+    "static/media/mock09.png": "/lakshmanmandapati/LM-Website/static/media/mock09.3665bff826d576f03ae5.png",
+    "static/media/mock10.png": "/lakshmanmandapati/LM-Website/static/media/mock10.22ea1afde2adec168ca1.png",
+    "static/media/bg-light.png": "/lakshmanmandapati/LM-Website/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/lakshmanmandapati/LM-Website/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock08.png": "/lakshmanmandapati/LM-Website/static/media/mock08.13b56e81479ef088d20c.png",
+    "static/media/mock07.png": "/lakshmanmandapati/LM-Website/static/media/mock07.3648cda4e343eca262bb.png",
+    "index.html": "/lakshmanmandapati/LM-Website/index.html",
+    "main.78423ae2.css.map": "/lakshmanmandapati/LM-Website/static/css/main.78423ae2.css.map",
+    "main.e4bd5d8f.js.map": "/lakshmanmandapati/LM-Website/static/js/main.e4bd5d8f.js.map",
+    "453.e6fc08ee.chunk.js.map": "/lakshmanmandapati/LM-Website/static/js/453.e6fc08ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78423ae2.css",
+    "static/js/main.e4bd5d8f.js"
+  ]
+}
